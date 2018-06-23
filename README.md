@@ -1,5 +1,5 @@
 # update-jsonkey-express
-In Many Scenario's we need to update a existing json key value with the new one. I have written a api, where we needs to provide a path of the key to update from the root.
+In many scenario's we need to update a existing json key value with the new one. I have written a api, where we needs to provide a path of the key to update from the root.
 
 ## To run the application
 
@@ -64,4 +64,4 @@ In Many Scenario's we need to update a existing json key value with the new one.
 
     > The path param value will be "/testing".
 
-    ![PostMan Screen Shot Image](https://github.com/UtkarshYeolekar/update-jsonkey-express/images/sc1.png)
+    ![PostMan Screen Shot Image](https://github.com/UtkarshYeolekar/update-jsonkey-express/blob/master/images/sc1.PNG)
