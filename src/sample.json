@@ -1,0 +1,32 @@
+{
+"images": {
+    "mongoDb":"mongo:3.6",
+    "redis":"redis:alpine",
+    "nginx":"nginx:alpine"
+  },
+  "db":{
+      "csDbUrl":"mongodb://abc:123456@mongodb:27017/test"
+    },
+  "tokens":{
+    "designer":"6468bb42cb2djdsisn2932nsdi",
+    "master":"f9305fcc-2ce2-sdi32-jsj32-kds09"
+    },
+  "static_node_ports":{
+        "app":32030,
+        "service":32031
+    },
+    "testing":{
+        "test1":{
+            "a":11,
+            "b":232
+        },
+        "test2":{
+            "xy":233,
+            "zz":"abc xyz",
+            "json":{
+                "msm":"sds",
+                "abc":"weuewoew"
+                }
+            }
+    }
+  }
